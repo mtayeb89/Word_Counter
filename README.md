@@ -7,7 +7,7 @@ This application is a simple word counter written in Python. It can count words,
 - Count words, characters, and lines in text
 - Ability to analyze text files
 - Ability to input text directly from the user
-- Simple command-line user interface
+- Simple command-line user interface.
 
 ## How to Use
 1. Make sure Python is installed on your system.
